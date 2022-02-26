@@ -1,0 +1,404 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100&display=swap');
+
+
+
+.container{
+	width: 75%;
+}
+
+.con ul li{
+	list-style: none;
+}
+
+
+.ii ul li {
+	display: inline;
+	font-weight: 600;
+	font-size: 14px;
+	margin-left: 10px;
+}
+
+.ii ul li a{
+	text-decoration: none;
+	
+}
+
+.emmy a{
+	color: #767070;
+	padding: 7px 10px;
+}
+
+.buttonheader a{
+	background-color: #d67300;
+	padding: 7px 10px;
+	font-size: 14px;
+	color: white;
+	border-radius: 18px;
+}
+
+
+#menu-header-menu li{
+	padding: 3px 3px 2px 3px;
+}
+
+
+#menu-header-menu{
+	margin: 0;
+}
+
+.auctinmenu ul li{
+	list-style: none;
+}
+
+.auctinmenu ul li a{
+	text-decoration: none;
+	color: black;
+}
+
+
+.companymenu ul li{
+	list-style: none;
+}
+
+
+.companymenu ul li a{
+	text-decoration: none;
+	color: black;
+}
+
+.card{
+	margin-right: 10px;
+	float: left;
+	background-color: white;
+	border-radius: 10px;
+	margin-bottom: 20px;
+	width: 32%;
+}
+
+.card .top h6{
+	margin:0;
+	padding: 11px 14px 0;
+	font-size: 15px;
+	font-weight: 700;
+}
+
+
+.card .top span{
+	padding: 0 14px;
+	font-size: 12px;
+	font-weight: 400;
+}
+
+#dd{
+	text-decoration: none;
+	color: white;
+	background-color: #0093ff;
+	padding: 5px;
+	border-radius: 6px;
+}
+
+.card .last i{
+	color: #b48230;
+}
+
+.card .last .uplast{
+	background-color: #212121;
+	padding: 9px 19px;
+	font-size: 11px;
+}
+
+.card .last{
+	font-family: Roboto, sans-serif;
+	font-weight: 300;
+}
+
+.card .lolast{
+	font-size: 16px;
+	padding: 7px 15px 10px 15px;
+}
+
+.buttonwala{
+	background-color: #D67300;
+	font-size: 15px;
+	border-radius: 21px 21px 21px 21px;
+	padding: 11px 24px;
+	height: 37px;
+}
+
+.backgroundgradient{
+	background: rgb(157,215,218);
+	background: linear-gradient(180deg, rgba(157,215,218,1) 3%, rgba(229,200,194,1) 44%,
+	rgba(216,191,187,1) 58%, rgba(252,151,146,1) 74%, rgba(249,129,133,1) 98%);
+
+}
+
+
+#backlogo{
+	padding-left: 153px;
+	padding-top:40px
+}
+
+
+#backlogoright{
+	padding-left: 156px;
+	padding-top:40px
+}
+
+.centerbtn{
+	background-color: #0093ff;
+	text-decoration: none;
+	color: white;
+	font-size: 14px;
+	font-weight: 500;
+	padding: 5px 11px;
+	border-radius: 5px;
+	margin-left: 140px;
+	position: absolute;
+    bottom: 54px;
+}
+
+
+
+.con ul li p{
+	font-size: 13px;
+	line-height: 19px;
+	font-weight: 300;
+}
+
+.singleback{
+	background-color: #ededed;
+}
+
+.upperbtn{
+	background-color: #0093ff;
+	border-radius: 10%;
+	padding: 10px 8px 8px 8px;
+}
+
+.section_subheading{
+	font-size:22px;
+	width:130px;
+	background-color:#edd4a6;
+	margin-top:-100px;
+	padding:4px 22px;
+	border-radius:4px
+}
+
+.under ul li a{
+	font-size: 15px;
+	font-weight: 500;
+}
+
+.under ul{
+	margin: 0;
+}
+
+
+.service-back-img{
+	background-image: url('	https://gaviaspreview.com/wp/indutri/wp-content/uploads/2015/12/breadcrumb.jpg');
+	width: 100%;
+	height: 383px;
+	background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 35px;
+    position: relative;
+}
+
+.breadcrum-container{
+	padding-top: 135px;
+    padding-bottom: 135px;
+	text-align: center;
+}
+
+.breadcrum li{
+	margin-bottom: 0;
+    display: inline-block;
+    font-weight: 400;
+    padding: 15px 30px 12px;
+    background: rgba(0,0,0,.2);
+	color: white;
+	list-style: disc;
+	margin
+}
+
+.breadcrum-container ul{
+	margin: 0;
+}
+
+.breadcrum-container ul li{
+	margin: 0;
+}
+
+
+.breadcrum a{
+	color: white;
+	text-decoration: none;
+}
+
+.heading-title{
+	color: white;
+	font-size: 52px;
+    margin: 0;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+
+.section-inner{
+	padding: 75px 0 55px 0;
+}
+
+.container-inner{
+	margin: 0 170px 0 170px;
+	text-align: center;
+}
+
+.clearfix{
+	color: #7e8591;
+    font-size: 16px;
+	text-transform: uppercase;
+    letter-spacing: .6px;
+    font-weight: 500;
+	margin-bottom: 5px;
+}
+
+.title{
+	margin: 0 0 15px 0;
+	font-size: 50px;
+    position: relative;
+	font-family: gilmer,sans-serif;
+    font-weight: 700;
+    line-height: 1.1;
+    color: #192437;
+}
+
+.card-main{
+	border: 1px solid #e9e9ee;
+	padding: 0;
+	border-radius: 0;
+	width: 30%;
+	margin: 0 14px 30px 14px;
+}
+
+.card-block{
+	padding: 50px 35px;
+}
+
+.card-block h3{
+	font-size: 22px;
+	margin-top: 0;
+	color: #192437;
+	line-height: 1.3;
+}
+
+.card-content{
+	line-height: 1.68;
+    font-size: 18px;
+	font-family: hind,sans-serif;
+    font-weight: 400;
+    color: #768492;
+}
+
+.readmore{
+	color: #ff5316;
+	line-height: 1.68;
+    font-size: 16px;
+	font-weight: 700;
+    font-family: gilmer,sans-serif;
+}
+
+.readmore a{
+	text-decoration: none;
+}
+
+.matterial{
+	padding: 75px 0 45px 0;
+}
+
+.matterial-container{
+	width: 78%;
+	margin: auto;
+}
+
+.matterial-rightside{
+	background-color: #f7f7f9;
+}
+
+.matterial-container .sideways{
+	padding: 0 15px 0 15px;
+}
+
+.matterial-menu{
+	padding: 45px 35px;
+}
+
+.matterial-menu h3{
+	color: #1b1f2e;
+	font-size: 17px;
+	font-weight: 700px;
+	padding: 0 0 30px 0;
+	margin: 0 0 30px 0;
+	letter-spacing: 1px;
+}
+
+.metterial-menu h3 span::after{
+	content: '';
+    width: 45px;
+    height: 2px;
+    background: #ff5316;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    z-index: 1;
+}
+
+.matterial-menu ul{
+	margin: 0;
+}
+
+.matterial-menu ul li{
+	list-style: none;
+	margin: 0;
+	line-height: 26px;
+	margin: 12px 0;
+}
+
+.matterial-menu ul li a{
+	text-decoration: none;
+	color: #768492;
+	font-family: "Hind",sans-serif;
+    font-weight: 400;
+	font-size: 18px;
+}
+
+.matterial-firstblock-title h1{
+	margin: 30px 0 20px 0;
+	font-size: 3.2rem;
+	font-family: "gilmer",sans-serif;
+    font-weight: 700;
+    line-height: 1.1;
+    color: #192437;
+	letter-spacing: 1px;
+}
+
+.matterial-firstblock-content p{
+	line-height: 1.68;
+    font-size: 18px;
+	font-family: "Hind",sans-serif;
+    font-weight: 400;
+    color: #768492;
+    text-align: left;
+}
+
+.section-heading h2{
+	margin: 15px 0 20px 0;
+	font-size: 3rem;
+	font-family: "gilmer",sans-serif;
+    font-weight: 700;
+    line-height: 1.1;
+    color: #192437;
+	letter-spacing: 1px;
+}
+
+.projects .sides{
+	padding: 0;
+}
